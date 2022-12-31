@@ -1,0 +1,16 @@
+{
+  "todos": [
+    {
+      "id": "0405209d-871f-4fa4-bfec-b0fcf568c924",
+      "title": "리액트 정복!!",
+      "content": "리액트랑 친해지기",
+      "isDone": false
+    },
+    {
+      "id": "5560a42e-30c5-495e-a6e7-c33a23510d32",
+      "title": "코딩 공부하기",
+      "content": "성실하게! 열심히!",
+      "isDone": true
+    }
+  ]
+}
